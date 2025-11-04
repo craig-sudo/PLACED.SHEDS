@@ -1,4 +1,11 @@
 
+export enum ServiceType {
+  Lights = 'Worry-Free Holiday Lights',
+  Shed = 'Custom Shed Builder',
+  Roofing = 'Drone Roof Inspections',
+  Maintenance = 'Gutter Cleaning & Maintenance',
+}
+
 export interface Option {
   id: string;
   name: string;

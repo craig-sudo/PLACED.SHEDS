@@ -10,7 +10,7 @@ export const Header: React.FC = () => {
           <WrenchIcon className="w-8 h-8 text-blue-600" />
           <h1 className="text-2xl font-bold text-gray-800 tracking-tight">PLACED</h1>
         </div>
-        <p className="text-gray-500 hidden sm:block">Your AI-Powered Shed Builder</p>
+        <p className="text-gray-500 hidden sm:block">Premium Home Services</p>
       </div>
     </header>
   );
